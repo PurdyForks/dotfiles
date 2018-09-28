@@ -11,3 +11,8 @@ tags
 tmp/**/*
 !tmp/cache/.keep
 *.pyc
+.tool-versions
+
+x-force/
+jp-debug.*
+
